@@ -1,3 +1,3 @@
 module.exports = {
-  projects: ['<rootDir>/apps/showroom'],
+  projects: ['<rootDir>/apps/showroom', '<rootDir>/libs/tooltip'],
 };

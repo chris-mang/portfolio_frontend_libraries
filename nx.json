@@ -1,5 +1,5 @@
 {
-  "npmScope": "portfolio-frontend-libraries",
+  "npmScope": "portfolio-libs",
   "affected": {
     "defaultBase": "master"
   },
@@ -29,6 +29,9 @@
     "showroom-e2e": {
       "tags": [],
       "implicitDependencies": ["showroom"]
+    },
+    "tooltip": {
+      "tags": []
     }
   }
 }
