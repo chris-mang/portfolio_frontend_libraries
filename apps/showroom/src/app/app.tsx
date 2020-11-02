@@ -20,7 +20,9 @@ export const App = () => {
    `;
   return (
     <Container>
-      <Tooltip />
+      <Tooltip title="Letras">
+        <div>Hola</div>
+      </Tooltip>
     </Container>
   );
 };
